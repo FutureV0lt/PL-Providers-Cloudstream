@@ -1,9 +1,6 @@
-# `Cloudstream3 Plugin Repo Template`
+# `Cloudstream3 Polish Providers Plugin WIP`
 
-Template for a [Cloudstream3](https://github.com/recloudstream) plugin repo
-
-**⚠️ Make sure you check "Include all branches" when using this template**
-
+A plugin for Cloudstream3 featuring only Polish providers
  
 ## Getting started with writing your first plugin
 
@@ -17,5 +14,10 @@ This template includes 1 example plugin.
 
 ## Attribution
 
-This template as well as the gradle plugin and the whole plugin system is **heavily** based on [Aliucord](https://github.com/Aliucord).
+The gradle plugin and the whole plugin system is **heavily** based on [Aliucord](https://github.com/Aliucord).
 *Go use it, it's a great mobile discord client mod!*
+
+## Credits
+
+Cloudstream Devs for the actual app
+Me for compiling the plugin
