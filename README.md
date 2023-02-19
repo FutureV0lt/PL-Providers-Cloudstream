@@ -19,5 +19,5 @@ The gradle plugin and the whole plugin system is **heavily** based on [Aliucord]
 
 ## Credits
 
-Cloudstream Devs for the actual app
-Me for compiling the plugin
+- Cloudstream Devs for the actual app
+- Me for compiling the plugin
